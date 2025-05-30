@@ -1,0 +1,32 @@
+[
+    {
+        "nama": "Umbul Ponggok",
+        "lokasi": "Delanggu",
+        "link_maps": "https://maps.app.goo.gl/PUDpjVfbPNenN6RA9",
+        "photo_file": "umbul-ponggok.jpg"
+    },
+    {
+        "nama": "Umbul Brondong",
+        "lokasi": "Ngrundul",
+        "link_maps": "https://maps.app.goo.gl/KhFu1dJUdiYPSC1v6",
+        "photo_file": "umbul-brondong.jpg"
+    },
+    {
+        "nama": "Umbul Cokro",
+        "lokasi": "Tulung",
+        "link_maps": "https://maps.app.goo.gl/Li8mtcUABQDvUNoU8",
+        "photo_file": "umbul-cokro.webp"
+    },
+    {
+        "nama": "Umbul Manten",
+        "lokasi": "Tulung",
+        "link_maps": "https://maps.app.goo.gl/J65AshQdpP4BweRp8",
+        "photo_file" : "umbul-manten.jpg"
+    },
+    {
+        "nama": "Umbul Sigedang",
+        "lokasi": "Polanharjo",
+        "link_maps": "https://maps.app.goo.gl/knvYFGNxL67Zg5mh8",
+        "photo_file": "umbul-sigedang.jpeg"
+    }
+]

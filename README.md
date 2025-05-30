@@ -1,1 +1,7 @@
-# wdc-pariwisata-klaten-public
+# Ngumbul
+
+```shell
+npm install
+
+npm run dev
+```
