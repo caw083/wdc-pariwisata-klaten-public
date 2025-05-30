@@ -113,14 +113,6 @@ Aplikasi ini di-deploy menggunakan [Vercel](https://vercel.com/). Setiap push ke
 
 Distributed under the MIT License. See `LICENSE` for more information.
 
-## 📞 Kontak
-
-Untuk pertanyaan atau saran, silakan hubungi:
-
-- **Website**: [https://wdc-pariwisata-klaten-pi.vercel.app/](https://wdc-pariwisata-klaten-pi.vercel.app/)
-- **Email**: [your-email@example.com]
-- **Instagram**: [@ngumbul_klaten]
-
 ## 🙏 Acknowledgments
 
 - Dinas Pariwisata Kabupaten Klaten
